@@ -1,0 +1,36 @@
+{
+  "float": [
+    {
+      "name": "item_normal_height",
+      "value": "64vp"
+    },
+    {
+      "name": "item_expended_height",
+      "value": "148vp"
+    },
+    {
+      "name": "full_width",
+      "value": "100%"
+    },
+    {
+      "name": "list_padding_top",
+      "value": "14vp"
+    },
+    {
+      "name": "list_padding_bottom",
+      "value": "12vp"
+    },
+    {
+      "name": "list_padding",
+      "value": "16vp"
+    },
+    {
+      "name": "list_edit_padding",
+      "value": "54vp"
+    },
+    {
+      "name": "list_padding_right",
+      "value": "11vp"
+    }
+  ]
+}
